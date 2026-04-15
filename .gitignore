@@ -1,15 +1,9 @@
 .vs/
-*.slnx
-*.user
-*.vcxproj.user
 Debug/
 Release/
 x64/
 x86/
-!*.exe
-Lesson 1-2/
-Lesson_2-3/
-*.obj
-*.pch
-*.ilk
-*.log
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
