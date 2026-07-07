@@ -31,3 +31,7 @@ Urok 19/
 Urok 21/
 urok/
 Test/
+!*.h
+!**/*.h
+!*.hpp
+!**/*.hpp
